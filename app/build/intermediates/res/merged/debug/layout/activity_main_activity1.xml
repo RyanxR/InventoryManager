@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!-- Header aligned to top -->
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#00796a"
+        android:gravity="left|center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:layout_alignParentLeft="false"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+
+    <!-- Footer aligned to bottom -->
+
+    <!-- Content below header and above footer -->
+
+    <RelativeLayout
+        android:id="@+id/content"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:background="#e5e1e1"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/header">
+
+        <TextView
+            android:text="Product name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="left"
+            android:id="@+id/textView4"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:background="#dcdada"></TextView>
+
+        <TextView
+            android:text="Manufacturer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:text="Amount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:layout_alignBottom="@+id/textView4"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:id="@+id/listHeader"></TextView>
+
+        <ListView
+            android:text="@string/title_list"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignWithParentIfMissing="false"
+            android:padding="10dp"
+            android:choiceMode="multipleChoice"
+            tools:listitem="@layout/entry"
+            android:layout_alignParentLeft="true"
+            android:background="#ffffff"
+            android:layout_above="@+id/btn_new_product"
+            android:divider="#dbdbdb"
+            android:dividerHeight="1dp"
+            android:layout_below="@+id/textView4"
+            android:id="@android:id/list">
+        </ListView>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_new_product"
+            android:text="New product"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:background="#ff9f00"
+            android:checked="false"
+            android:layout_alignParentLeft="true"
+            android:bottomRightRadius="10dp"
+            android:bottomLeftRadius="10dp"
+            android:topLeftRadius="10dp"
+            android:topRightRadius="10dp"
+            android:onClick="addNewProduct">
+        </Button>
+
+    </RelativeLayout>
+
+</RelativeLayout>
