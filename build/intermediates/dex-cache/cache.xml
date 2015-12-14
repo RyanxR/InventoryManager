@@ -9,11 +9,11 @@
         <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\telephoneNumberChecker_final\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-9420041e4b1d9839b6a5ac40f2f96c201c8df9b6.jar" />
     </item>
     <item
-        jar="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jar="C:\Users\davinator\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_4df98d6e2e2dc02b43cc7a89aa62e520581336c7.jar" />
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_948a54bb6fb574399f6316916c0ba559ff359b49.jar" />
     </item>
     <item
         jar="C:\Users\davinator\Desktop\Applications for mobile devices\ListenIn\app\src\main\libs\libphonenumber-7.2.1.jar"
@@ -23,11 +23,39 @@
         <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\ListenIn\app\build\intermediates\pre-dexed\debug\libphonenumber-7.2.1-92f899dd95be9fc63ba522d1727370cfbe59edaf.jar" />
     </item>
     <item
+        jar="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_2ce588a1cac3c49159987e53151c71d8bef30ffb.jar" />
+    </item>
+    <item
         jar="C:\Users\davinator\Desktop\Applications for mobile devices\telephoneNumberChecker_final_nativeDialer\app\src\main\libs\libphonenumber-7.2.1.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="91b21f6fa0b639b8d71cce29b7e9109347d93919">
         <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\telephoneNumberChecker_final_nativeDialer\app\build\intermediates\pre-dexed\debug\libphonenumber-7.2.1-5c6d1f946c614eb1c08f734d871eba2f54905e98.jar" />
+    </item>
+    <item
+        jar="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_4df98d6e2e2dc02b43cc7a89aa62e520581336c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\src\main\libs\libphonenumber-7.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91b21f6fa0b639b8d71cce29b7e9109347d93919">
+        <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\pre-dexed\debug\libphonenumber-7.2.1_212391a9173d7facfa2ee98c5235e711369be56b.jar" />
+    </item>
+    <item
+        jar="C:\Users\davinator\Desktop\Applications for mobile devices\telephoneNumberChecker_final\app\src\main\libs\libphonenumber-7.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91b21f6fa0b639b8d71cce29b7e9109347d93919">
+        <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\telephoneNumberChecker_final\app\build\intermediates\pre-dexed\debug\libphonenumber-7.2.1-5b9e838fda522cc8d2f2a72a751743960feff1c5.jar" />
     </item>
     <item
         jar="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
@@ -44,39 +72,11 @@
         <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_781ae22ff24e36477a61fdc53f3d87ec294b3cc0.jar" />
     </item>
     <item
-        jar="C:\Users\davinator\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_948a54bb6fb574399f6316916c0ba559ff359b49.jar" />
-    </item>
-    <item
         jar="C:\Users\davinator\Desktop\Applications for mobile devices\telephoneNumberChecker\app\src\main\libs\libphonenumber-7.2.1.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="91b21f6fa0b639b8d71cce29b7e9109347d93919">
         <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\telephoneNumberChecker\app\build\intermediates\pre-dexed\debug\libphonenumber-7.2.1-5e25e035a727fc5e3d54e503537f2ad723e25078.jar" />
-    </item>
-    <item
-        jar="C:\Users\davinator\Desktop\Applications for mobile devices\telephoneNumberChecker_final\app\src\main\libs\libphonenumber-7.2.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="91b21f6fa0b639b8d71cce29b7e9109347d93919">
-        <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\telephoneNumberChecker_final\app\build\intermediates\pre-dexed\debug\libphonenumber-7.2.1-5b9e838fda522cc8d2f2a72a751743960feff1c5.jar" />
-    </item>
-    <item
-        jar="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\src\main\libs\libphonenumber-7.2.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="91b21f6fa0b639b8d71cce29b7e9109347d93919">
-        <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\pre-dexed\debug\libphonenumber-7.2.1_212391a9173d7facfa2ee98c5235e711369be56b.jar" />
-    </item>
-    <item
-        jar="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Users\davinator\Desktop\Applications for mobile devices\Project\StevintoryV2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_2ce588a1cac3c49159987e53151c71d8bef30ffb.jar" />
     </item>
 
 </items>
